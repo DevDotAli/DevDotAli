@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:DevDotAli?theme=asoul&padding=5&offset=5&scale=2&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:DevDotAli?theme=asoul&padding=9&offset=5&scale=2&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
