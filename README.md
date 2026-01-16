@@ -32,11 +32,23 @@
   <a href="@ziyaf_ali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
+  <a href="https://www.instagram.com/immortalziyaf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
+  </a>
   <a href="https://x.com/Ziyaf_Jaffry" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9F%94%97&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="50" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%F0%9F%94%97&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/ziyafali" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%F0%9F%94%97&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/317ke6zukuroj6oc5ejq6k6ji7p4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317ke6zukuroj6oc5ejq6k6ji7p4&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
