@@ -10,13 +10,13 @@
 
 ###
 
-<h2 align="left">🎀 Age: 2_<br>🎀 Current Status: Depressed<br>🎀 Marching Status: FAHHHHHHH<br>🎀 Focused: FAHHHHHH<br>🎀 That Status 👉🏻👈🏻: Taken<br>🎀 Qualification: "Dont ask, Im better than you"</h2>
+<br clear="both">
+
+<img align="right" height="220" src="https://i.pinimg.com/originals/83/92/ef/8392ef9be01706d092dd65efe3f7affe.gif"  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://i.pinimg.com/originals/83/92/ef/8392ef9be01706d092dd65efe3f7affe.gif"  />
+<h2 align="left">🎀 Age: 2_<br>🎀 Current Status: Depressed<br>🎀 Marching Status: FAHHHHHHH<br>🎀 Focused: FAHHHHHH<br>🎀 That Status 👉🏻👈🏻: Taken<br>🎀 Qualification: "Dont ask, Im better than you"</h2>
 
 ###
 
@@ -30,16 +30,16 @@
 
 <div align="center">
   <a href="@ziyaf_ali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="90" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/immortalziyaf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="90" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
   </a>
   <a href="https://x.com/Ziyaf_Jaffry" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9F%94%97&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="90" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9F%94%97&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="50" alt="twitter logo"  />
   </a>
   <a href="www.linkedin.com/in/ziyafali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%F0%9F%94%97&color=0077B5&logoColor=white&labelColor=&style=flat" height="90" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%F0%9F%94%97&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
